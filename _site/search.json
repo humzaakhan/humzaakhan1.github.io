@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Humza Khan",
+    "section": "",
+    "text": "Humza Khan website.\nAbout me\npolitical scientist\ndata scientist\n\nplot(iris)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a TA and doctoral candidate at UTD."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Cyberattacks, human rights, and international conflict."
+  }
+]

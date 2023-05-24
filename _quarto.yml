@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Humza Khan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - research.qmd
+      - text: Assignments
+        menu: 
+          - text: Assignment1.qmd
+            href: assignment 1
+          - text: Assignment2.qmd
+            href: assignment 2
+          
+      
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+
+editor: visual
+

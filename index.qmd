@@ -1,0 +1,15 @@
+---
+title: "Humza Khan"
+---
+
+Humza Khan website.
+
+About me
+
+political scientist
+
+data scientist
+
+```{r}
+plot(iris)
+```
